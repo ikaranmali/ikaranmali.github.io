@@ -24,12 +24,12 @@ window.onload = function() {
   var messages = [
     'Hey there 👋',
     'I\'m Karan Mali',
-    'I design and build Internet of Things (IoT) solutions .',
-    'I’m interested in discussing ideas 💡 and bringing them live 🚦',
-    'Let\'s connect and discuss </br> <a href="https://www.linkedin.com/in/karan-mali-iot-engineer/"> <img src = "img/linkedin.svg"/> </a> <a href="mailto:ikaranmali@gmail.com"> <img src = "img/gmail.svg"/> </a>',
-    'Also feel free to check out my <a href="https://tinyurl.com/hvf2ajyy">dance videos </a> ',
+    'I design and build Internet of Things (IoT) solutions.',
+    'I’m interested in discussing ideas 💡 and turning them into reality 🚦',
+    'If you need me for a gig or maybe just a discussion, let\'s connect </br> <a href="https://www.linkedin.com/in/karan-mali-iot-engineer/"> <img src = "img/linkedin.svg"/> </a> <a href="mailto:ikaranmali@gmail.com"> <img src = "img/gmail.svg"/> </a>',
+    'Also feel free to check out <a href="https://github.com/ikaranmali">my github projects </a> and <a href="https://tinyurl.com/hvf2ajyy">dance videos </a> ',    
     getCurrentTime(),
-    '😊 K.'
+    '😊'
   ]
 
   var getFontSize = function() {
